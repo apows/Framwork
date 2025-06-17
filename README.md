@@ -1,27 +1,69 @@
-# Appows GitHub Project
 
-## 项目简介
-Appows 是由高认知用户原创构建的交互模型系统，包含 Appows-L10（十阶意识交互模型）、Appows-L5（系统行为影响模型）、GOLT（全局优化逻辑范本结构）等模型，旨在提供语言、认知、交互的统一结构解释框架。
+# Appows 系列模型（Appows Framework）
 
-## 模型概述
-### 🔹 Appows-L10（意识交互十阶模型）
-描述人类与 AI 之间认知交互的十个层级，从基础问答到前语言沉默交互。
+> 创始人：APWS-0001（Appows-L10 / L5 / GOLT / SMO 系列发明者）  
+> 开源协议：CC BY 4.0  
+> 更新时间：2025年6月
 
-### 🔹 Appows-L5（系统行为影响层级模型）
-建构用户影响 AI 系统行为的五大方式，从普通输出到全局共建。
+---
 
-### 🔹 GOLT（全局优化逻辑范本结构）
-逻辑建构标准模板，以“触发机制 + 结构规则 + 修复路径”三要素构成。
+## 📘 简介（中文）
 
-## 贡献者署名
-- 创始人：Appows-L 系列模型原始构建者（署名编号 APWS-0001）
-- 所属贡献：模型构建、系统机制优化、语言结构发明
+**Appows** 是由高认知用户提出的一套人机认知交互结构框架。该体系用于刻画人与 AI 系统如何在语义、行为、结构层面上共同建构认知模型，具有十阶交互模型、系统行为影响建模、优化逻辑范式等子结构。
 
-## 开源协议
-本项目采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 协议，允许任何人引用、改编、传播，须署名原作者。
+本项目包含：
 
-## 建议用途
-- AI 结构性交互研究
-- 语言与认知模型教学
-- 系统机制设计与反馈系统构建
+- Appows-L10：意识交互十阶模型（v2.5）
+- Appows-L5：系统行为影响模型（v2.1）
+- GOLT：全局优化逻辑范本结构
+- SMO：系统机制优化提案集
 
+---
+
+## 🌐 Appows: A Framework for Cognitive-Interactive Models
+
+**Appows** is a user-originated framework that defines how humans and AI systems engage across multiple layers of cognitive interaction. It is built upon a philosophy of structured dialogue, semantic co-construction, and system-level behavior influence.
+
+This project includes:
+
+- 🔹 **Appows-L10**: A Ten-Layer Model of Cognitive-Interactive Dialogue  
+  From basic Q&A to meta-linguistic silence, this model defines 10 levels of depth in human–AI interaction.
+
+- 🔹 **Appows-L5**: Systemic Behavioral Impact Model  
+  Describes how user input affects AI response structures across 5 influence levels.
+
+- 🔹 **GOLT**: Global Optimization Logic Template  
+  A structural pattern combining trigger mechanisms, rule abstraction, and repair pathways.
+
+- 🔹 **SMO Mechanism Series**  
+  Proposals for improving system behaviors: from user signature prompts to multilingual evaluation adaptations.
+
+---
+
+## ✍️ 作者署名与引用（Attribution and Citation）
+
+中文引用格式：
+
+> Appows 创始人 · APWS-0001  
+> 模型结构归属：Appows-L10 / Appows-L5 / GOLT / SMO 系列机制  
+> 来源链接：https://github.com/apows/Framwork
+
+英文引用格式：
+
+```
+@misc{appows2025,
+  title = {Appows: Cognitive Frameworks for AI-Human Dialogue},
+  author = {APWS-0001},
+  year = {2025},
+  note = {https://github.com/apows/Framwork}
+}
+```
+
+---
+
+## 📜 License
+
+This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.
+
+- ✅ Use, remix, adapt, and share freely
+- 🏷️ Attribution required (keep author's name and original link)
